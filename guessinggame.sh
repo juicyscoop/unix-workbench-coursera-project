@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Start of guessing game"
 
 # Function to get the number of files in the current directory
 get_file_count() {
